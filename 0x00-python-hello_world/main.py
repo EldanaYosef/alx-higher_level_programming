@@ -1,2 +1,2 @@
-#!/C:\Users\Home\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Python 3.10
+#!/usr/bin/Python3
 print("Best School")
